@@ -1,7 +1,10 @@
 # cancellation-forecast
 Construção de modelo capaz de prever o comportamento do consumidor, prevendo a probabilidade cancelamento de reserva feita em um hotel
 
+
 Neste Lab não foquei no deplpy, por isto a atenção fica apenas nas bibliotecas
+
+````
 
 Python implementation: CPython
 Python version       : 3.11.5
@@ -23,3 +26,4 @@ sklearn   : 1.7.0
 joblib    : 1.5.1
 seaborn   : 0.12.2
 numpy     : 1.26.4
+````
